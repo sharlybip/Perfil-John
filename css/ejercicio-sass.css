@@ -35,8 +35,8 @@ main {
   width: 50%;
   -webkit-padding-before: 50px;
           padding-block-start: 50px;
-  color: #FFFFFF;
-  background-color: #8841DA;
+  color: #130101;
+  background-color: #46b918;
 }
 .perfil__avatar {
   display: block;
@@ -54,10 +54,10 @@ main {
   text-align: center;
   font-weight: 700;
   font-size: 12px;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(19, 1, 1, 0.5);
 }
 .perfil__boton {
-  color: #FFFFFF;
+  color: #130101;
   display: block;
   width: 100px;
   height: 40px;
@@ -66,8 +66,8 @@ main {
   border-radius: 20px;
   text-decoration: none;
   text-align: center;
-  background-color: rgba(51, 51, 51, 0.5);
-  border: 2px solid rgba(255, 255, 255, 0.3);
+  background-color: rgba(233, 212, 212, 0.5);
+  border: 2px solid rgba(19, 1, 1, 0.3);
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
 }
@@ -91,8 +91,8 @@ main {
   border-radius: 20px;
   -webkit-box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
           box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
-  color: #333333;
-  background-color: #FFFFFF;
+  color: #e9d4d4;
+  background-color: #130101;
 }
 .estadistica--perfil h3 {
   font-weight: 600;
@@ -113,13 +113,13 @@ main {
   height: 90px;
   margin: 30px auto 0 auto;
   padding: 20px 0 0 50px;
-  background-color: #FFFFFF;
-  color: #333333;
+  background-color: #130101;
+  color: #e9d4d4;
   border-radius: 20px;
   -webkit-box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
           box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
-  color: #333333;
-  background-color: #FFFFFF;
+  color: #e9d4d4;
+  background-color: #130101;
 }
 .ubicacion--perfil i {
   display: block;
@@ -127,7 +127,7 @@ main {
   -webkit-padding-end: 10px;
           padding-inline-end: 10px;
   font-size: 40px;
-  color: 0 #3f579a;
+  color: #f7fb00;
 }
 .ubicacion--perfil h2 {
   font-weight: 600;
@@ -139,13 +139,13 @@ main {
   text-transform: uppercase;
   font-size: 12px;
   font-family: "Oswald", sans-serif;
-  color: rgba(51, 51, 51, 0.5);
+  color: rgba(233, 212, 212, 0.5);
 }
 
 .galeria {
   width: 70%;
   height: 250px;
-  margin: 10px auto;
+  margin: 40px auto;
   padding: 20px 0 0 30px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
@@ -153,8 +153,8 @@ main {
   border-radius: 20px;
   -webkit-box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
           box-shadow: 0px 20px 33px 0px rgba(0, 0, 0, 0.5);
-  color: #333333;
-  background-color: #FFFFFF;
+  color: #e9d4d4;
+  background-color: #130101;
 }
 .galeria__fotos-container {
   display: -webkit-box;
@@ -191,13 +191,13 @@ main {
 .articulo {
   -webkit-margin-after: 75px;
           margin-block-end: 75px;
-  -webkit-border-after: 3px solid #8841DA;
-          border-block-end: 3px solid #8841DA;
+  -webkit-border-after: 3px solid #46b918;
+          border-block-end: 3px solid #46b918;
 }
 .articulo__categoria {
   font-weight: 500;
   font-size: 16px;
-  color: #8841DA;
+  color: #46b918;
   font-family: "Oswald", sans-serif;
   text-transform: uppercase;
 }
