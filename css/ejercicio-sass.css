@@ -110,7 +110,7 @@ main {
 
 .ubicacion--perfil {
   width: 50%;
-  height: 90px;
+  height: 110px;
   margin: 30px auto 0 auto;
   padding: 20px 0 0 50px;
   background-color: #130101;
@@ -143,9 +143,9 @@ main {
 }
 
 .galeria {
-  width: 70%;
+  width: 90%;
   height: 250px;
-  margin: 40px auto;
+  margin: 20px auto;
   padding: 20px 0 0 30px;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
