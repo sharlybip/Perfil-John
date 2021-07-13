@@ -1,8 +1,9 @@
-@media (min-width: 500px) {
-    .articulos {
-        width: 100%;
+@media (max-width: 600px) {
+    main {
+        display: flex;
+        flex-wrap: wrap;
     }
-    .perfil {
-        width: 100%;
+    .aside{
+        display: flex;
     }
 }

@@ -32,7 +32,7 @@ main {
 }
 
 .perfil {
-  width: 50%;
+  width: 100%;
   -webkit-padding-before: 50px;
           padding-block-start: 50px;
   color: #130101;
@@ -184,7 +184,7 @@ main {
 }
 
 .articulos {
-  width: 40%;
+  width: 100%;
   padding: 50px 0 0 50px;
 }
 
@@ -211,12 +211,18 @@ main {
   padding-right: 100px;
 }
 
-@media (min-width: 500px) {
-  .articulos {
-    width: 100%;
+@media (max-width: 600px) {
+  main {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
   }
 
-  .perfil {
-    width: 100%;
+  .aside {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
   }
 }
