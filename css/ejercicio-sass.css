@@ -224,8 +224,11 @@ main {
     width: 100%;
   }
 
-  .aside {
+  .articulos {
     width: 100%;
+  }
+
+  .aside {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
