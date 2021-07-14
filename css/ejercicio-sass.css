@@ -220,7 +220,12 @@ main {
         flex-wrap: wrap;
   }
 
+  .perfil {
+    width: 100%;
+  }
+
   .aside {
+    width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
